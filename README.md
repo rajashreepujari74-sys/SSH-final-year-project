@@ -620,6 +620,6 @@ MongoDB schemas are organized around user-centric data models:
 
 ---
 
-## 38. License
+## 38. License 
 
 This project is open source and available under the [MIT License](LICENSE).
